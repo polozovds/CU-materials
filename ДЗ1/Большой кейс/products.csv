@@ -1,0 +1,10 @@
+id,name,food,cost
+72496383-5fff-4994-95c5-7d553e27df54,Эспрессо,False,180
+1863b278-927c-45cb-ad8c-78774d36af63,Американо,False,215
+4d51525c-64eb-40f6-9443-a34d3be16406,Капучино,False,260
+a1dfa703-82e2-45d4-a4f6-bcd44b12fd6c,Флет уайт,False,250
+e38c3beb-b142-4850-afda-4582735aa892,Латте,False,260
+edd02442-f160-46ad-98f3-60e1f904f215,Какао,False,310
+6c4d26d2-85b0-43dc-bcba-be13dc65d969,Круассан,True,280
+448b640c-ce42-459b-b7d4-219a24dd5d4c,Сэндвич,True,310
+f9f307cd-f180-4a3e-9db1-6607a174c172,Панини,True,350
