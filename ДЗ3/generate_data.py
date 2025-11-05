@@ -1,4 +1,18 @@
+import numpy as np
+import scipy.stats as sps
+
+
 def generate_ab_data(num_days, frac_test):
+    '''
+    По длительности эксперимента и доли тестовой группы возвращает датасет с тестовой и контрольной группой
+    
+    Параметры:
+        - num_days, int: длительность эксперимента в днях
+        - frac_test, float: доля тестовой группы от всех наблюдений
+    
+    Возвращает:
+        - data, pd.DataFrame: датасет с тестовой и контрольной группой
+    '''
     NUM_DAYS = num_days
     NUM_USERS = 2_032
     np.random.seed(1)
